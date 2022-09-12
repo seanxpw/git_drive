@@ -34,4 +34,4 @@ there's only one file called git.cpp
 **you may have to change some addresses**. It's easy because they are witten in variebles.
 
 The **main idea** of the program is by using a windows api, witch send you a signal (kind of) when changes in the certain dirctory is detected.
-some comments are written in chinese, don't worry, you can see a translation around.
+some comments are written in Chinese, don't worry, you can see a translation around.
